@@ -1,1 +1,1 @@
-# wc-Go
+# go run main.go path/to/file
